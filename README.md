@@ -1,10 +1,25 @@
 - 👋 Hi, I’m @LUCASH-LOPES
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Olá meu nome é lucas ##
 
-<!---
-LUCASH-LOPES/LUCASH-LOPES is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Lucas GitHub stats]
+(https://github-readme-stats.vercel.app/api?username=LUCASH-LOPES&show_icons=true&theme=radical)
+
+[![Top Langs]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASH-LOPES&layout=compact)]
+(https://github.com/LUCASH-LOPES)
+
+
+
+
+
+[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+(https://www.instagram.com/lucaslopes003/?next=%2F)
+
+
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+(https://www.linkedin.com/in/lucas-honorato-lopes-997374215/)
+
+
+[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
+(https://www.youtube.com/channel/UC1ZZpjnwYJPmeu4XhS8Nlag/videos)
