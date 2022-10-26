@@ -14,7 +14,6 @@
 
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LUCASH-LOPES&show_icons=true&theme=slateorange)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASH-LOPES&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
 
