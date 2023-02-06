@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Lucas Honorato Lopes  ##
+## 👋 Hi, I’m Lucas Lopes  ##
 
 <br>
 
