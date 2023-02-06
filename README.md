@@ -8,14 +8,8 @@
 <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img aling="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img aling="center" alt="reactnative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img aling="center" alt="JAVASCRIP" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
-
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LUCASH-LOPES&show_icons=true&theme=slateorange)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASH-LOPES&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
  you already knew my work, now know my day to day 🫶
