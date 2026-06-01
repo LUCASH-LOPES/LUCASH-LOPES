@@ -5,14 +5,8 @@
 </a>
 
 <a href="https://hub-criativo.pages.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=780&lines=Lucas+Honorato+Lopes+%7C+Software+Engineer;Projetos%2C+artigos+e+aprendizados+como+um+System;Systems+over+features;Backend+%7C+Cloud+%7C+AI+%7C+Automation" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=780&lines=Software+Engineer;Projetos%2C+artigos+e+aprendizados+como+um+System;Systems+over+features;Backend+%7C+Cloud+%7C+AI+%7C+Automation" alt="Typing animation" />
 </a>
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Hub%20Criativo-2563EB?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://hub-criativo.pages.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-LUCASH--LOPES-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LUCASH-LOPES)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Lopes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-honorato-lopes-997374215/)
 
 </div>
 
