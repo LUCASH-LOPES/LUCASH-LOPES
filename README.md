@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://hub-criativo.pages.dev/">
-  <img width="100%" src="./assets/hub-criativo-hero-v2.svg" alt="Hub Criativo - Um espaço para mentes curiosas" />
+  <img width="100%" src="./assets/hub-criativo-hero-v3.svg" alt="Hub Criativo - Um espaço para mentes curiosas" />
 </a>
 
 <a href="https://hub-criativo.pages.dev/">
