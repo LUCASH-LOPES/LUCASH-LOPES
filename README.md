@@ -4,6 +4,13 @@
   <img width="100%" src="./assets/hub-criativo-hero-v3.svg" alt="Hub Criativo - Um espaço para mentes curiosas" />
 </a>
 
+<br />
+
+[![Hub Criativo](https://img.shields.io/badge/Hub%20Criativo-2563EB?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://hub-criativo.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-honorato-lopes-997374215/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1ZZpjnwYJPmeu4XhS8Nlag/videos)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslopes003/)
+
 <a href="https://hub-criativo.pages.dev/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=780&lines=Software+Engineer;Projetos%2C+artigos+e+aprendizados+como+um+System;Systems+over+features;Backend+%7C+Cloud+%7C+AI+%7C+Automation" alt="Typing animation" />
 </a>
@@ -90,13 +97,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LUCASH-LOPES&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Lucas GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCASH-LOPES&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
-
-## Vamos Conversar
-
-[![Portfolio](https://img.shields.io/badge/Hub%20Criativo-2563EB?style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://hub-criativo.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-honorato-lopes-997374215/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1ZZpjnwYJPmeu4XhS8Nlag/videos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslopes003/)
 
 <div align="center">
 
