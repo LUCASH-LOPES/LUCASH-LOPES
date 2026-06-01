@@ -11,10 +11,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1ZZpjnwYJPmeu4XhS8Nlag/videos)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslopes003/)
 
-<a href="https://hub-criativo.pages.dev/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=780&lines=Software+Engineer;Projetos%2C+artigos+e+aprendizados+como+um+System;Systems+over+features;Backend+%7C+Cloud+%7C+AI+%7C+Automation" alt="Typing animation" />
-</a>
-
 </div>
 
 ---
