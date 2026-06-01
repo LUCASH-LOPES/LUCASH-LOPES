@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B0D12,45:2563EB,100:111827&text=Hub%20Criativo&fontColor=FFFFFF&fontSize=48&fontAlignY=36&animation=fadeIn" alt="Hub Criativo" />
+<a href="https://hub-criativo.pages.dev/">
+  <img width="100%" src="./assets/hub-criativo-hero.svg" alt="Hub Criativo - Um espaço para mentes curiosas" />
+</a>
 
 <a href="https://hub-criativo.pages.dev/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=800&color=2563EB&center=true&vCenter=true&width=780&lines=Lucas+Honorato+Lopes+%7C+Software+Engineer;Projetos%2C+artigos+e+aprendizados+como+um+System;Systems+over+features;Backend+%7C+Cloud+%7C+AI+%7C+Automation" alt="Typing animation" />
